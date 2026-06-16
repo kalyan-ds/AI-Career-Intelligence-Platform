@@ -24,7 +24,7 @@ An AI-powered career preparation platform that helps candidates:
 
 🚀 Try the application here:
 
-https://ai-career-intelligence-platform.streamlit.app
+https://ai-career-intelligence-platform-pilot.streamlit.app/
 
 ## 🏗️ System Architecture
 
