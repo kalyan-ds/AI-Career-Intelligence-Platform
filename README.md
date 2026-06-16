@@ -1,5 +1,11 @@
 # 🚀 AI Career Intelligence Platform
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![AI](https://img.shields.io/badge/AI-Powered-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 An AI-powered career preparation platform that helps candidates:
 
 ✅ Analyze resumes
