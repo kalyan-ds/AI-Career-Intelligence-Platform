@@ -1,3 +1,20 @@
+# 🚀 AI Career Intelligence Platform
+
+An AI-powered career preparation platform that helps candidates:
+
+✅ Analyze resumes
+
+✅ Identify skill gaps
+
+✅ Practice AI-generated interviews
+
+✅ Get personalized feedback
+
+✅ Track career readiness
+
+✅ Generate interview reports & certificates
+
+Built with Python, Streamlit, NLP, Machine Learning, Whisper AI, and Sentence Transformers.
 ## 📸 Application Screenshots
 
 ### Dashboard
