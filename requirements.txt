@@ -12,3 +12,4 @@ scipy
 PyPDF2
 python-docx
 torch
+PyMuPDF
