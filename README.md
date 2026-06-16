@@ -1,3 +1,58 @@
+# 🚀 AI Career Intelligence Platform
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![AI](https://img.shields.io/badge/AI-Powered-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+An AI-powered career preparation platform that helps candidates:
+
+✅ Analyze resumes
+
+✅ Identify skill gaps
+
+✅ Practice AI-generated interviews
+
+✅ Get personalized feedback
+
+✅ Track career readiness
+
+✅ Generate interview reports & certificates
+
+## 🌐 Live Demo
+
+🚀 Try the application here:
+
+https://ai-career-intelligence-platform-pilot.streamlit.app/
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+
+A[Resume Upload] --> B[Resume Parser]
+B --> C[Skill Extraction]
+C --> D[Resume Analysis]
+
+D --> E[Interview Question Generator]
+E --> F[AI Interview Simulator]
+
+F --> G[Voice Interview Whisper]
+F --> H[Answer Evaluation Engine]
+
+H --> I[AI Feedback Generator]
+I --> J[Performance Reports]
+
+J --> K[Analytics Dashboard]
+J --> L[Certificate Generator]
+
+K --> M[Career Advisor]
+M --> N[Roadmap Generator]
+M --> O[Learning Resources]
+```
+
+Built with Python, Streamlit, NLP, Machine Learning, Whisper AI, and Sentence Transformers.
 ## 📸 Application Screenshots
 
 ### Dashboard
