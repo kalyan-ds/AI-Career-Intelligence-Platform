@@ -20,6 +20,38 @@ An AI-powered career preparation platform that helps candidates:
 
 ✅ Generate interview reports & certificates
 
+## 🌐 Live Demo
+
+🚀 Try the application here:
+
+https://ai-career-intelligence-platform.streamlit.app
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+
+A[Resume Upload] --> B[Resume Parser]
+B --> C[Skill Extraction]
+C --> D[Resume Analysis]
+
+D --> E[Interview Question Generator]
+E --> F[AI Interview Simulator]
+
+F --> G[Voice Interview Whisper]
+F --> H[Answer Evaluation Engine]
+
+H --> I[AI Feedback Generator]
+I --> J[Performance Reports]
+
+J --> K[Analytics Dashboard]
+J --> L[Certificate Generator]
+
+K --> M[Career Advisor]
+M --> N[Roadmap Generator]
+M --> O[Learning Resources]
+```
+
 Built with Python, Streamlit, NLP, Machine Learning, Whisper AI, and Sentence Transformers.
 ## 📸 Application Screenshots
 
