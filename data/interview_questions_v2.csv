@@ -1,0 +1,121 @@
+role,question,expected_keywords,difficulty
+Data Scientist,What is overfitting?,keywords,Easy
+Data Scientist,What is underfitting?,keywords,Easy
+Data Scientist,What is regression?,keywords,Easy
+Data Scientist,What is classification?,keywords,Easy
+Data Scientist,What is precision?,keywords,Easy
+Data Scientist,What is recall?,keywords,Easy
+Data Scientist,What is accuracy?,keywords,Easy
+Data Scientist,What is feature engineering?,keywords,Easy
+Data Scientist,What is a dataset?,keywords,Easy
+Data Scientist,What is data preprocessing?,keywords,Easy
+Data Scientist,What is cross validation?,keywords,Medium
+Data Scientist,What is feature selection?,keywords,Medium
+Data Scientist,What is bias variance tradeoff?,keywords,Medium
+Data Scientist,Explain confusion matrix.,keywords,Medium
+Data Scientist,What is ROC AUC?,keywords,Medium
+Data Scientist,What is imbalanced data?,keywords,Medium
+Data Scientist,What is ensemble learning?,keywords,Medium
+Data Scientist,Explain decision trees.,keywords,Medium
+Data Scientist,What is model evaluation?,keywords,Medium
+Data Scientist,What is dimensionality reduction?,keywords,Medium
+Data Scientist,Explain PCA.,keywords,Hard
+Data Scientist,Explain SHAP values.,keywords,Hard
+Data Scientist,What is data leakage?,keywords,Hard
+Data Scientist,How would you optimize a model?,keywords,Hard
+Data Scientist,Explain Bayesian optimization.,keywords,Hard
+Data Scientist,What is concept drift?,keywords,Hard
+Data Scientist,Explain statistical significance.,keywords,Hard
+Data Scientist,What is multicollinearity?,keywords,Hard
+Data Scientist,How do you handle large datasets?,keywords,Hard
+Data Scientist,Explain advanced feature engineering.,keywords,Hard
+AI Engineer,What is NLP?,keywords,Easy
+AI Engineer,What is Deep Learning?,keywords,Easy
+AI Engineer,What is Machine Learning?,keywords,Easy
+AI Engineer,What is a Neural Network?,keywords,Easy
+AI Engineer,What is Prompt Engineering?,keywords,Easy
+AI Engineer,What are Embeddings?,keywords,Easy
+AI Engineer,What is Generative AI?,keywords,Easy
+AI Engineer,What is a chatbot?,keywords,Easy
+AI Engineer,What is computer vision?,keywords,Easy
+AI Engineer,What is tokenization?,keywords,Easy
+AI Engineer,What are Transformers?,keywords,Medium
+AI Engineer,What is an LLM?,keywords,Medium
+AI Engineer,Difference between CNN and RNN?,keywords,Medium
+AI Engineer,What is fine tuning?,keywords,Medium
+AI Engineer,What is transfer learning?,keywords,Medium
+AI Engineer,Explain attention mechanism.,keywords,Medium
+AI Engineer,What is vector search?,keywords,Medium
+AI Engineer,What is semantic similarity?,keywords,Medium
+AI Engineer,How do LLMs work?,keywords,Medium
+AI Engineer,What is Retrieval Augmented Generation?,keywords,Medium
+AI Engineer,Explain self-attention mathematically.,keywords,Hard
+AI Engineer,How would you reduce hallucinations?,keywords,Hard
+AI Engineer,What is RLHF?,keywords,Hard
+AI Engineer,Explain LoRA.,keywords,Hard
+AI Engineer,What is model quantization?,keywords,Hard
+AI Engineer,How would you deploy an LLM?,keywords,Hard
+AI Engineer,Explain multi-agent AI systems.,keywords,Hard
+AI Engineer,What is chain-of-thought reasoning?,keywords,Hard
+AI Engineer,Explain prompt injection attacks.,keywords,Hard
+AI Engineer,How do embeddings work internally?,keywords,Hard
+Machine Learning Engineer,What is supervised learning?,keywords,Easy
+Machine Learning Engineer,What is unsupervised learning?,keywords,Easy
+Machine Learning Engineer,What is reinforcement learning?,keywords,Easy
+Machine Learning Engineer,What is Random Forest?,keywords,Easy
+Machine Learning Engineer,What is XGBoost?,keywords,Easy
+Machine Learning Engineer,What is gradient descent?,keywords,Easy
+Machine Learning Engineer,What is model deployment?,keywords,Easy
+Machine Learning Engineer,What is hyperparameter tuning?,keywords,Easy
+Machine Learning Engineer,What is feature selection?,keywords,Easy
+Machine Learning Engineer,What is clustering?,keywords,Easy
+Machine Learning Engineer,Explain regularization.,keywords,Medium
+Machine Learning Engineer,What is bagging?,keywords,Medium
+Machine Learning Engineer,What is boosting?,keywords,Medium
+Machine Learning Engineer,What is k-means?,keywords,Medium
+Machine Learning Engineer,What is logistic regression?,keywords,Medium
+Machine Learning Engineer,What is linear regression?,keywords,Medium
+Machine Learning Engineer,Explain cross validation.,keywords,Medium
+Machine Learning Engineer,What is GridSearchCV?,keywords,Medium
+Machine Learning Engineer,What is model drift?,keywords,Medium
+Machine Learning Engineer,What is feature scaling?,keywords,Medium
+Machine Learning Engineer,Explain distributed training.,keywords,Hard
+Machine Learning Engineer,How would you optimize inference speed?,keywords,Hard
+Machine Learning Engineer,Explain model monitoring.,keywords,Hard
+Machine Learning Engineer,What is online learning?,keywords,Hard
+Machine Learning Engineer,How would you handle concept drift?,keywords,Hard
+Machine Learning Engineer,Explain AutoML.,keywords,Hard
+Machine Learning Engineer,What is Bayesian learning?,keywords,Hard
+Machine Learning Engineer,How would you deploy ML at scale?,keywords,Hard
+Machine Learning Engineer,Explain feature stores.,keywords,Hard
+Machine Learning Engineer,What is MLOps?,keywords,Hard
+Data Analyst,What is data cleaning?,keywords,Easy
+Data Analyst,What is EDA?,keywords,Easy
+Data Analyst,What is a KPI?,keywords,Easy
+Data Analyst,What is SQL?,keywords,Easy
+Data Analyst,What is Excel?,keywords,Easy
+Data Analyst,What is a dashboard?,keywords,Easy
+Data Analyst,What is a chart?,keywords,Easy
+Data Analyst,What is business intelligence?,keywords,Easy
+Data Analyst,What is data visualization?,keywords,Easy
+Data Analyst,What is aggregation?,keywords,Easy
+Data Analyst,What is normalization?,keywords,Medium
+Data Analyst,What is a JOIN?,keywords,Medium
+Data Analyst,Explain GROUP BY.,keywords,Medium
+Data Analyst,What is a pivot table?,keywords,Medium
+Data Analyst,What is ETL?,keywords,Medium
+Data Analyst,What is a warehouse?,keywords,Medium
+Data Analyst,Explain data pipelines.,keywords,Medium
+Data Analyst,What is A/B testing?,keywords,Medium
+Data Analyst,What is segmentation?,keywords,Medium
+Data Analyst,What is trend analysis?,keywords,Medium
+Data Analyst,How would you analyze customer churn?,keywords,Hard
+Data Analyst,How would you build a KPI framework?,keywords,Hard
+Data Analyst,Explain cohort analysis.,keywords,Hard
+Data Analyst,What is forecasting?,keywords,Hard
+Data Analyst,Explain attribution modeling.,keywords,Hard
+Data Analyst,How would you measure business growth?,keywords,Hard
+Data Analyst,What is statistical significance?,keywords,Hard
+Data Analyst,How would you design an analytics system?,keywords,Hard
+Data Analyst,Explain retention metrics.,keywords,Hard
+Data Analyst,How would you optimize reporting?,keywords,Hard

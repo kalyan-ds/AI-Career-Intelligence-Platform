@@ -1,0 +1,11 @@
+role,question,ideal_answer,expected_keywords,difficulty
+AI Engineer,What is Machine Learning?,"Machine Learning is a subset of Artificial Intelligence that enables systems to learn patterns from data and improve performance without explicit programming.","machine learning,artificial intelligence,data,patterns,model",Easy
+AI Engineer,What is Deep Learning?,"Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large datasets.","deep learning,neural network,layers,data,training",Easy
+AI Engineer,What is NLP?,"Natural Language Processing is a field of AI that enables computers to understand, interpret and generate human language.","nlp,natural language processing,text,language,chatbot",Easy
+AI Engineer,What is a Neural Network?,"A Neural Network is a computational model inspired by the human brain, consisting of interconnected nodes used for learning patterns in data.","neural network,nodes,weights,learning,data",Easy
+AI Engineer,What is Overfitting?,"Overfitting occurs when a model learns the training data too well and performs poorly on unseen data.","overfitting,training data,generalization,test data,model",Easy
+AI Engineer,What is Underfitting?,"Underfitting occurs when a model is too simple to capture underlying patterns in the data.","underfitting,bias,model,data,patterns",Easy
+AI Engineer,What is Supervised Learning?,"Supervised Learning is a machine learning approach where models are trained using labeled data.","supervised learning,labeled data,training,target,prediction",Medium
+AI Engineer,What is Unsupervised Learning?,"Unsupervised Learning is a machine learning approach that discovers hidden patterns in unlabeled data.","unsupervised learning,clustering,patterns,unlabeled data,features",Medium
+AI Engineer,What is Reinforcement Learning?,"Reinforcement Learning is a learning paradigm where an agent learns by interacting with an environment and receiving rewards or penalties.","reinforcement learning,agent,reward,environment,policy",Medium
+AI Engineer,Explain Gradient Descent.,"Gradient Descent is an optimization algorithm used to minimize a loss function by iteratively updating model parameters.","gradient descent,optimization,loss function,learning rate,weights",Medium

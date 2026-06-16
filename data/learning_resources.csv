@@ -1,0 +1,8 @@
+skill,documentation,youtube,project
+Python,https://docs.python.org/3/,https://www.youtube.com/results?search_query=python+tutorial,Build a Python Automation Tool
+SQL,https://www.w3schools.com/sql/,https://www.youtube.com/results?search_query=sql+tutorial,Student Database Project
+Excel,https://support.microsoft.com/excel,https://www.youtube.com/results?search_query=excel+tutorial,Budget Tracker
+Power BI,https://learn.microsoft.com/en-us/power-bi/,https://www.youtube.com/results?search_query=power+bi+tutorial,Sales Dashboard
+TensorFlow,https://www.tensorflow.org,https://www.youtube.com/results?search_query=tensorflow+tutorial,Image Classification Model
+Docker,https://docs.docker.com,https://www.youtube.com/results?search_query=docker+tutorial,Containerize a Flask App
+AWS,https://aws.amazon.com,https://www.youtube.com/results?search_query=aws+tutorial,Deploy ML Model on AWS

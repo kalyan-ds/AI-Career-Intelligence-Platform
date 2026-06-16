@@ -1,0 +1,41 @@
+role,question,expected_keywords,difficulty
+Data Scientist,What is overfitting?,overfitting;training data;generalization,Easy
+Data Scientist,What is underfitting?,underfitting;poor performance;model,Easy
+Data Scientist,What is cross validation?,folds;validation;evaluation,Medium
+Data Scientist,What is feature engineering?,features;data;transformation,Medium
+Data Scientist,What is bias variance tradeoff?,bias;variance;generalization,Hard
+Data Scientist,What is precision?,true positives;precision,Easy
+Data Scientist,What is recall?,true positives;recall,Easy
+Data Scientist,What is a confusion matrix?,tp;tn;fp;fn,Medium
+Data Scientist,Difference between classification and regression?,classification;regression,Easy
+Data Scientist,How do you evaluate a model?,accuracy;metrics;evaluation,Medium
+AI Engineer,What is NLP?,text;language;processing,Easy
+AI Engineer,What is Deep Learning?,neural network;layers,Easy
+AI Engineer,What are Transformers?,attention;transformer,Medium
+AI Engineer,What is an LLM?,language model;generation,Medium
+AI Engineer,What is Prompt Engineering?,prompt;instructions,Easy
+AI Engineer,What are Embeddings?,vector;representation,Medium
+AI Engineer,Difference between CNN and RNN?,cnn;rnn,Medium
+AI Engineer,What is Attention Mechanism?,attention;weights,Hard
+AI Engineer,What is Fine Tuning?,training;adaptation,Medium
+AI Engineer,What is Generative AI?,generation;content,Easy
+Machine Learning Engineer,What is supervised learning?,labeled data;training,Easy
+Machine Learning Engineer,What is unsupervised learning?,clustering;patterns,Easy
+Machine Learning Engineer,What is reinforcement learning?,agent;reward,Medium
+Machine Learning Engineer,What is gradient descent?,optimization;loss,Medium
+Machine Learning Engineer,What is regularization?,overfitting;penalty,Medium
+Machine Learning Engineer,What is Random Forest?,trees;ensemble,Easy
+Machine Learning Engineer,What is XGBoost?,boosting;trees,Medium
+Machine Learning Engineer,What is model deployment?,production;deployment,Easy
+Machine Learning Engineer,What is hyperparameter tuning?,parameters;optimization,Medium
+Machine Learning Engineer,What is feature selection?,features;selection,Easy
+Data Analyst,What is data cleaning?,missing values;cleaning,Easy
+Data Analyst,What is EDA?,exploration;analysis,Easy
+Data Analyst,What is a KPI?,metric;performance,Easy
+Data Analyst,What is a dashboard?,visualization;dashboard,Easy
+Data Analyst,Difference between SQL and Excel?,sql;excel,Easy
+Data Analyst,What is data visualization?,charts;graphs,Easy
+Data Analyst,What is normalization?,scaling;data,Medium
+Data Analyst,What is a JOIN in SQL?,join;tables,Medium
+Data Analyst,What is aggregation?,group by;summary,Medium
+Data Analyst,What is business intelligence?,business;insights,Medium
