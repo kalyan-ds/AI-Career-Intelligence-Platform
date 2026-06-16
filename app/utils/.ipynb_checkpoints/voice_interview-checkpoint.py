@@ -2,13 +2,9 @@ import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 os.environ["PATH"] += os.pathsep + r"C:\Program Files\ffmpeg-8.1.1-essentials_build\bin"
 
-try:
-    import sounddevice as sd
-    VOICE_ENABLED = True
-except:
-    VOICE_ENABLED = False
-import whisper
 
+import whisper
+import sounddevice as sd
 from scipy.io.wavfile import write
 import shutil
 
@@ -21,8 +17,6 @@ model = whisper.load_model(
 )
 
 def record_answer():
-    if not VOICE_ENABLED:
-        return None
 
     duration = 10
 

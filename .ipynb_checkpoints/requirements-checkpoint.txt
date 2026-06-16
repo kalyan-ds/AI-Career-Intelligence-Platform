@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+reportlab
+speechrecognition
+openai-whisper
+sounddevice
+scipy
+PyPDF2
+python-docx
+torch
